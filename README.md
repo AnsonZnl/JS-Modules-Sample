@@ -1,7 +1,7 @@
 # JS-Modules-Sample
 JS 模块化演示代码，包括AMD、CommonJS、AMD、UMD、ES6 Module的实例代码
 
-![JavaScript-模块 _1_.png](https://i.loli.net/2021/05/14/UaXMWf3zJjpvASg.png)
+![JavaScript-模块.png](https://i.loli.net/2021/05/14/UaXMWf3zJjpvASg.png)
 
 ## 模块化的意义
 
